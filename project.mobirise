@@ -64,7 +64,15 @@
     "uniqCompNum": 6,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "favicon": "@PROJECT_PATH@/assets/images/untitled-128x119.png",
+    "mbrsiteDomain": "biodivercity",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
